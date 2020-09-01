@@ -1,1 +1,1 @@
-# aa228_final_project
+# Bayesian Structural Learning Engine for social data (source: World Bank)
